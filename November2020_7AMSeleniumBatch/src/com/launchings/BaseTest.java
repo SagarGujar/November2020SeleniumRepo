@@ -69,7 +69,7 @@ public class BaseTest
 	{
 		if(p.getProperty(browser).equals("chrome")) 
 		{
-			System.setProperty("webdriver.chrome.driver", "C:/Users/DELL/Desktop/UpdatedDrivers/chromedriver.exe");
+			//System.setProperty("webdriver.chrome.driver", "C:/Users/DELL/Desktop/UpdatedDrivers/chromedriver.exe");
 			System.setProperty(ChromeDriverService.CHROME_DRIVER_LOG_PROPERTY, "false");
 			
 			ChromeOptions option = new ChromeOptions();
