@@ -2,11 +2,10 @@ package com.launchings;
 
 public class TC_006 {
 
+		int x=400,y=500,z=600;
 	public static void main(String[] args) {
-		System.out.println("first  commit");
-		System.out.println("second  commit");
+		System.out.println("first commit");
 		
-
 	}
 
 }
